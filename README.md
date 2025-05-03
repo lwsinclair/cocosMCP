@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/czh2774-cocosmcp-badge.png)](https://mseep.ai/app/czh2774-cocosmcp)
+
 # Cocos MCP Log Bridge
 
 一个强大的日志桥接工具，用于在 Cocos Creator 编辑器和 Cursor AI 之间同步日志信息，帮助开发者更有效地分析和解决问题。
